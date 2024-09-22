@@ -1,0 +1,27 @@
+<topics>
+    <topic>
+        <id>https://guides.loc.gov/chronicling-america-bicycle-craze</id>
+        <results>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn85058130/1889-02-24/ed-1/seq-6/</id>
+                <rel>1</rel>
+                <text>THE WORLD ON WHEELS
+            The Improvements Made The
+            ...
+                </text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn85058130/1889-03-17/ed-1/seq-11/</id>
+                <rel>1</rel>
+                <text>ASTRIDE THE WHEEL
+            Another Plea in Behalf of the
+            ...
+                </text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn88085722/1891-07-01/ed-1/seq-2/</id>
+                <rel>0</rel>
+            </result>
+        </results>
+    </topic>
+</topics>
